@@ -355,6 +355,8 @@ http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="TG收集" ,凤凰中文台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="TG收集" ,美亞電影台
+http://bx.757888.xyz/api.php?id=meiya
 #EXTINF:-1 group-title="TG收集" ,龍祥時代
 http://t.061899.xyz/tl/168.php?id=lxsd
 #EXTINF:-1 group-title="TG收集" ,龍華偶像
