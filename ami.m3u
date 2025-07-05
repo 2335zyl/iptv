@@ -107,6 +107,78 @@ http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 #EXTINF:-1 group-title="全网通" ,寰宇新闻台
 http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
+#EXTINF:-1 group-title="全网通" ,凤凰中文台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 group-title="全网通" ,凤凰资讯台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 group-title="全网通" ,凤凰香港台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 group-title="全网通" ,翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
+#EXTINF:-1 group-title="全网通" ,TVB无线新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
+#EXTINF:-1 group-title="全网通" ,TVB明珠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
+#EXTINF:-1 group-title="全网通" ,TVB生活台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
+#EXTINF:-1 group-title="全网通" ,TVB星河频道(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(粤)
+#EXTINF:-1 group-title="全网通" ,TVB星河频道(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(国)
+#EXTINF:-1 group-title="全网通" ,TVB1
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB1
+#EXTINF:-1 group-title="全网通" ,TVBPearlDrama明珠劇集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+#EXTINF:-1 group-title="全网通" ,TVB娱乐新闻
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
+#EXTINF:-1 group-title="全网通" ,TVB千禧经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
+#EXTINF:-1 group-title="全网通" ,天映频道(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)
+#EXTINF:-1 group-title="全网通" ,天映频道(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)
+#EXTINF:-1 group-title="全网通" ,天映经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
+#EXTINF:-1 group-title="全网通" ,TVB功夫台(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(国)
+#EXTINF:-1 group-title="全网通" ,TVB功夫台(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
+#EXTINF:-1 group-title="全网通" ,美亚电影(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)
+#EXTINF:-1 group-title="全网通" ,美亚电影(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(粤)
+#EXTINF:-1 group-title="全网通" ,POPC
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=POPC
+#EXTINF:-1 group-title="全网通" ,黃金華劇台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黃金華劇台
+#EXTINF:-1 group-title="全网通" ,Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
+#EXTINF:-1 group-title="全网通" ,Now星影台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
+#EXTINF:-1 group-title="全网通" ,Now華劇台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
+#EXTINF:-1 group-title="全网通" ,Now劇集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
+#EXTINF:-1 group-title="全网通" ,NowJelli紫金国际
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=NowJelli紫金国际
+#EXTINF:-1 group-title="全网通" ,ViuTV
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
+#EXTINF:-1 group-title="全网通" ,ViuTV6
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
+#EXTINF:-1 group-title="全网通" ,HKC18台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HKC18台
+#EXTINF:-1 group-title="全网通" ,亚洲剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲剧台
+#EXTINF:-1 group-title="全网通" ,华语剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=华语剧台
+#EXTINF:-1 group-title="全网通" ,Hoy77
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+#EXTINF:-1 group-title="全网通" ,Hoy78
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+#EXTINF:-1 group-title="全网通" ,Now爆谷
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+#EXTINF:-1 group-title="全网通" ,Now星影
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
 #EXTINF:-1 group-title="全网通" ,CHC家庭影院
 http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 #EXTINF:-1 group-title="全网通" ,CHC影迷电影
